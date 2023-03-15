@@ -29,3 +29,5 @@ COO 林能旭
 
 MKT Consultant 夏志刚：
 HB Fuller (Global 500) 中国区总裁；担任销售总监期间扩展胶类业务进入消费类手机供应链，成为华米OV的胶类供应商，成为第一个本土晋升的中国区总裁。
+
+[最新进展 Update](https://ow7c26ph63.feishu.cn/docx/CLD1d8lsnoyRD3xzSh6cOMVdnFe)
