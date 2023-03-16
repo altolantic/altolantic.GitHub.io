@@ -1,5 +1,7 @@
 
-![modules](images/1.png)
+<center>
+<img src="images/2.png" width = 60% height = 60% />
+</center>
 
 ## Mission
 我们期待我们创造的叠衣机，能够像洗衣机烘干机一样成为家庭清洗 “三大件”。

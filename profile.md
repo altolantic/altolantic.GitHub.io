@@ -3,7 +3,9 @@
 
 发达国家传统商业洗衣店从 ***自助***“洗烘” 到 ***自动***“洗烘叠送” 转型过程的 ***人力成本*** 和 ***市场需求转变*** 的矛盾。
 
-![modules](images/1.png)
+<center>
+<img src="images/1.png" width = 50% height = 50% />
+</center>
 
 ## What we do
 
