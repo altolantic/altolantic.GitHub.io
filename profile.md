@@ -24,9 +24,6 @@ VP Sys [臧宇航]()
 VP Eng [邱迪聪](http://www.davidqiu.com/)
 PIX Moving VP, Ruqi Mobility Director, ISEE Sr. Eng, NASA RI, DJI Eng；CMU & 中山
 
-COO 林能旭
-字节跳动数据流PM，作为队长带领哈工大拿下RM世界总决赛亚军；哈工大本
-
 MKT Consultant 夏志刚：
 HB Fuller (Global 500) 中国区总裁；担任销售总监期间扩展胶类业务进入消费类手机供应链，成为华米OV的胶类供应商，成为第一个本土晋升的中国区总裁。
 

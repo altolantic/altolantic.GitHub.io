@@ -1,3 +1,3 @@
-* [中文](/roborts)
-* [English](/en/roborts)
+* [中文](/profile)
+* [English](/en/profile)
 * [Laundrobot](https://www.Laundrobot.com/)
