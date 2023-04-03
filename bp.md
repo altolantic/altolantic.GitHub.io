@@ -120,7 +120,7 @@
 
 ## 最新进展简报 & MVP
 
-- 4.1 - 我们实现了 Demo 手动的技术可行性论证，以及完成机械搭建，进入编码测试阶段
+- 4.1 - 我们实现了 视频Demo 手动的技术可行性论证，以及完成机械搭建，进入编码测试阶段
 - 3.14 - 我们获得了 505 Stockton Ave, San Francisco, CA 94015 公寓一楼洗衣房的部署测试许可
 - 3.7 - 我们创建了我们自己的 FB 小组 Future Laundromat 获得了40+ 洗衣店主的订阅
 
@@ -163,11 +163,9 @@
 ***CEO*** [黎鹏宇](http://www.pengyulee.com/)
 技术型连续创业者，两次获得李泽湘老师旗下孵化器投资，DJI Eng; UChicago HCI & 天大
 
-***VP Eng*** [邱迪聪](http://www.davidqiu.com/)
+***CTO*** [邱迪聪](http://www.davidqiu.com/)
 PIX Moving VP, Ruqi Mobility Director, ISEE Sr. Eng, NASA RI, DJI Eng；CMU & 中山
 
-***VP Sys*** [臧宇航](https://yuhangzang.github.io/)
-视觉和AI算法专家，DJI Eng, 商汤科技 Eng, OpenImage 第一名；NTU Ph.D & 电子科大
 
 ### 创业动机
 Li：对于我个人来说，我想 “To be somebody” 。我很难忍受无聊领导的领导以及僵化组织的束缚。从大一退出论资排辈科技工作室，出来和一帮大一和大四的同学创建了自己的工作室参加世界机器人竞技，作为创始队长在一年内带领队伍掌握全部技术栈，两年打进国赛，三年成为了种子队伍成为近百人的大团队。后来在李泽湘老师的帮助下，误入了创业道路，很困难但是活着有盼头，是可以一件可以 quit 掉 PhD 来做的事。
@@ -176,8 +174,6 @@ Qiu：我觉得我自己并不是一个甘于稳定的人，一直想弄点大�
 
 ### 人生偶像 & 价值感
 Li：创业圈很多人的偶像是 Elon, 我觉得偶像是自己欠缺部分的长板在偶像身上的弥补，我觉得我能成为 Elon 这样的人，所以更多的是在大脑中开一个 Elon 的副本，遇到抉择时候能够跳出自我的偏见，想想如果 Elon 遇到这个问题会怎么做，做出相对正确的抉择。我的偶像是 [Craig Federighi](https://www.apple.com/leadership/craig-federighi/) - Apple 软件 SVP，喜欢他也很简单：作为管理层，上能深刻提炼需求转为系统架构，下能够帮实习生改功能代码，对软件系统深刻的理解和绝对掌控能力，是我非常非常崇拜的。
-
-Qiu：
 
 ## 财务与融资
 > 在种子轮阶段，我们期望用 6% 的股权融资 300万 人民币，用于实现团队 6个月 的目标.
